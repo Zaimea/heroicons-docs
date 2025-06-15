@@ -2,8 +2,6 @@
 title: How to use package
 description: How to use package
 github: https://github.com/zaimea/heroicons-docs/edit/main/
-sections: 
-    usage : 'Usage'
 ---
 
 # Heroicons Usage
